@@ -3,5 +3,5 @@
 intmain()
 {
     int a = 22;
-    int b = a;
+    int b = a; // test
 }
